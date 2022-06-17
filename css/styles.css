@@ -400,11 +400,16 @@ main {
         padding: 4rem 2rem 2.5rem;
     }
 
+
     .card::before {
         transform: translateY(-5%);
     }
 
     .card p {
+        margin: 1.5rem 0 1.5rem;
+    }
+
+    .card .margin-xl {
         margin: 1.5rem 0 3.25rem;
     }
 
